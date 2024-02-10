@@ -11,3 +11,6 @@
 
 
 5. Boom you will get the output if your file is affected or not it will also show you virus scans.
+
+
+6. Sometimes programme will not show you the ouput you just have to try again and the second time it will surely work.
